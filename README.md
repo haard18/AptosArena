@@ -10,7 +10,7 @@ CrickTrade is a **revolutionary platform** where users can trade virtual stocks 
 
 ---
 
-## 🔑 Key Features
+## 🔑 Key Feature of CrickTrade
 
 - **Real-Time Trading**: Buy and sell stocks of cricket players as matches progress, with prices updated dynamically based on in-game performance.
 - **Player Stats Integration**: We pull live player data to keep stock prices up to date and reflective of current form.
